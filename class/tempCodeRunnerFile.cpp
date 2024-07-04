@@ -1,10 +1,5 @@
-<<<<<<< HEAD
-
-    
-    return 0;
-}
-=======
- // cout<<"\nBook number:"<<bookno;
-        // cout<<"\nBook title:"<<booktitle;
-        // cout<<"\nBook price:"<<price;
->>>>>>> 2dc49f558039dd9e5675656eb3653a486fa3fe5e
+ void sum()
+    {
+        cout<<"Area of circle is:"<<pi*f*f;
+         cout<<"Area of square is:"<<b*b<<endl;
+    }
